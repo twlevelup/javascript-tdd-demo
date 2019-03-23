@@ -1,0 +1,28 @@
+{
+  "name": "javascript-tdd-demo",
+  "version": "1.0.0",
+  "description": "ThoughtWorks LevelUp demo project for TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twlevelup/javascript-tdd-demo.git"
+  },
+  "keywords": [
+    "tdd",
+    "kata",
+    "levelup",
+    "thoughtworks"
+  ],
+  "author": "Matthew Edge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twlevelup/javascript-tdd-demo/issues"
+  },
+  "homepage": "https://github.com/twlevelup/javascript-tdd-demo#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
