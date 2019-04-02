@@ -5,3 +5,4 @@ describe('valid additions', () => {
 		expect(add(1, 1)).toEqual(2);
 	});
 });
+//add more tests here
